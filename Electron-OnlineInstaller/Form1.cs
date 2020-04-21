@@ -16,6 +16,5 @@ namespace Electron_OnlineInstaller
 		{
 			InitializeComponent();
 		}
-
 	}
 }
