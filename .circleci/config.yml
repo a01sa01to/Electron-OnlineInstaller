@@ -9,5 +9,6 @@ jobs:
 
     steps:
       - checkout
-      - name: Build
-        run: dotnet build
+      - run:
+          name: Build
+          command: dotnet build
